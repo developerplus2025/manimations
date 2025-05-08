@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/DoThiSin/3977891868_1240998541_223132457.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/DoThiSin/2852726489_3851849543_2644133108.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/DoThiSin/2852726489_1754310298_2567311965.mp4'

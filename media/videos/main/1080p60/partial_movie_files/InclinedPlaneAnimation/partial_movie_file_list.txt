@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/InclinedPlaneAnimation/3977891868_1473052111_223132457.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/InclinedPlaneAnimation/2852726489_3035653639_3363243863.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/InclinedPlaneAnimation/2852726489_1839128356_2235945480.mp4'

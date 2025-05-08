@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/GiaiPhuongTrinh/3977891868_3685878134_223132457.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/GiaiPhuongTrinh/2852726489_3201849554_173880867.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/GiaiPhuongTrinh/2852726489_3235816935_2323810957.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/GiaiPhuongTrinh/2852726489_2195964191_1944520913.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/GiaiPhuongTrinh/2852726489_3201849554_219535492.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/GiaiPhuongTrinh/2852726489_773919608_1168224153.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/GiaiPhuongTrinh/2852726489_3201849554_2804974342.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/GiaiPhuongTrinh/2852726489_2612800656_3164681472.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/GiaiPhuongTrinh/2852726489_3201849554_3084092633.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/GiaiPhuongTrinh/2852726489_2159431615_2454211003.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/GiaiPhuongTrinh/2852726489_1839128356_2460160938.mp4'

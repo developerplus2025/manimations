@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/InclinedAtwoodMachine/3977891868_3339778782_223132457.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/InclinedAtwoodMachine/2852726489_3090198485_2862519170.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/InclinedAtwoodMachine/2852726489_2915919471_1258036226.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/InclinedAtwoodMachine/2852726489_3201849554_213787372.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/InclinedAtwoodMachine/2852726489_2812185769_2038580794.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/InclinedAtwoodMachine/2852726489_1754310298_3997986097.mp4'

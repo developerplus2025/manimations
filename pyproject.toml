@@ -1,0 +1,21 @@
+[project]
+name = "manimations"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "alive-progress>=3.2.0",
+    "asciimatics>=1.15.0",
+    "colorama>=0.4.6",
+    "cx-freeze>=8.2.0",
+    "halo>=0.0.31",
+    "inquirer>=3.4.0",
+    "keyboard>=0.13.5",
+    "manim>=0.19.0",
+    "pandas>=2.2.3",
+    "pyinstaller>=6.13.0",
+    "questionary>=2.1.0",
+    "textual>=3.2.0",
+    "tqdm>=4.67.1",
+]

@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/SolveEquationGraphically/3977891868_3551384645_223132457.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/SolveEquationGraphically/2852726489_2791421786_2381103989.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/SolveEquationGraphically/2852726489_3452629647_384746911.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/SolveEquationGraphically/2852726489_3383053775_370139654.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/SolveEquationGraphically/2852726489_3524131423_876806252.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/SolveEquationGraphically/2852726489_82068237_4027004006.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/SolveEquationGraphically/2852726489_3497852614_136994691.mp4'
+file 'file:/home/kali/Downloads/manimations/media/videos/main/1080p60/partial_movie_files/SolveEquationGraphically/2852726489_2408024828_1896638029.mp4'
