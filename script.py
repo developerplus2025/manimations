@@ -20,7 +20,7 @@ from tqdm.auto import tqdm
 from rich.progress import Progress, TextColumn, BarColumn, TaskProgressColumn
 from urllib.request import urlopen
 from rich.progress import wrap_file
-response = urlopen("https://www.textualize.io")
+response = urlopen("https://floravf.vercel.app/")
 size = int(response.headers["Content-Length"])
 
 with wrap_file(response, size) as file:
@@ -44,12 +44,12 @@ def tqdm_pandas(t):
     DataFrame.progress_apply = inner
 
 
-response = urlopen("https://www.textualize.io")
+response = urlopen("https://floravf.vercel.app/")
 size = int(response.headers["Content-Length"])
 with Progress(
-    TextColumn("[bold white]Progress 1[/]"),
-    BarColumn(bar_width=None, complete_style="green"),
-    TaskProgressColumn(style="bold red"),  # Đổi màu 100% tại đây
+        TextColumn("[bold white]Progress 1[/]"),
+        BarColumn(bar_width=None, complete_style="green"),
+        TaskProgressColumn(style="bold red"),  # Đổi màu 100% tại đây
 ) as progress:
     task = progress.add_task("Progress 1", total=100)
     for i in range(100):
